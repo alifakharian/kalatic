@@ -1,0 +1,7 @@
+@font-face {
+  font-family: fn;
+  src: url(./IRANSansXFaNum-Medium.ttf);
+}
+.address {
+  font-family: fn;
+}

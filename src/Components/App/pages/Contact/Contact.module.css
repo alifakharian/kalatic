@@ -1,0 +1,22 @@
+@font-face {
+  font-family: sans;
+  src: url(./IRANSansWeb_Black.ttf);
+}
+@font-face {
+  font-family: fn;
+  src: url(./IRANSansXFaNum-Medium.ttf);
+}
+.contact{
+   font-weight: 900 !important;     
+  font-family: sans;
+  font-family: fn;
+}
+.selecttitle{
+font-size: 15px;
+font-weight: 900 !important;     
+
+}
+.karbar{
+  font-family: sans;
+  font-family: fn;
+}

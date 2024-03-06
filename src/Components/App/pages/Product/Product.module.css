@@ -1,0 +1,13 @@
+.title {
+  font-size: 40px !important;
+}
+.swiperslide {
+  font-family: fn;
+}
+@font-face {
+  font-family: fn;
+  src: url(./IRANSansXFaNum-Medium.ttf);
+}
+.speciallsell {
+  font-family: fn;
+}

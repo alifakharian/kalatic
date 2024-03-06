@@ -1,0 +1,78 @@
+@font-face {
+  font-family: fn;
+  src: url(./IRANSansXFaNum-Medium.ttf);
+}
+@font-face {
+  font-family: code;
+  src: url(./IRANSansWeb_Light.ttf);
+}
+@font-face {
+  font-family:artin;
+  src: url(./ArtinSharp\ Regular.ttf);
+}
+
+
+.code {
+  font-family: code;
+}
+
+.price,
+.singelprice,
+.code {
+  font-family: fn;
+}
+
+.singelprice {
+  font-size: 30px !important;
+}
+.singeltitle {
+  font-size: 20px !important;
+}
+
+.titledescription {
+  font-size: x-large;
+}
+.description {
+  font-family: sans-serif;
+  /* line-height: 30px; */
+  text-align: justify;
+}
+.showmore {
+  font-family: fn;
+  /* color: gray; */
+}
+.test {
+  left:103px;
+  
+  position: absolute;
+  /* background-color: yellow; */
+  top: -35px;
+}
+
+
+.rotate{
+  font-size: 30px !important;
+  color: rgba(2, 13, 161, 0.611);
+  font-family:artin;
+  font-weight:bolder;
+  text-shadow: 
+  5px 0 5px  #addef2,
+  5px 0 10px #addef2,
+  5px 0 20px #addef2,
+  5px 0 40px #addef2,
+  5px 0 80px #addef2; 
+  padding-bottom: 20px;
+  font-size: larger;
+} 
+
+.hidenrotate{
+  opacity: 0 !important;
+  color: rgba(2, 13, 161, 0.611);
+  font-family:artin;
+  text-shadow: 
+   0 0 5px #addef2,
+  0 0 10px #addef2,
+  0 0 20px #addef2,
+  0 0 40px #addef2,
+  0 0 80px #addef2;
+}

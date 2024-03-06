@@ -1,0 +1,9 @@
+@font-face {
+  font-family: sans;
+  src: url("./IRANSansWeb_Black.ttf");
+}
+
+.passage {
+  font-family: 900 !important;
+  font-family: sans !important;
+}
