@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/kalatic/static/css/main.c56f79a5.css",
+    "main.js": "/kalatic/static/js/main.aacab595.js",
+    "static/media/1.jpg": "/kalatic/static/media/1.92d0c900c387396a5a34.jpg",
+    "static/media/8.jpg": "/kalatic/static/media/8.51536bd3f8b43fe1c743.jpg",
+    "static/media/IRANSansXFaNum-Medium.ttf": "/kalatic/static/media/IRANSansXFaNum-Medium.1084402b5f9df646940c.ttf",
+    "static/media/Shabnam.ttf": "/kalatic/static/media/Shabnam.5b9b09c283c263361c6d.ttf",
+    "static/media/adv4.jpg": "/kalatic/static/media/adv4.c51b05ce46240387a877.jpg",
+    "static/media/ArtinSharp Regular.ttf": "/kalatic/static/media/ArtinSharp Regular.e0ed0a6c655695782fac.ttf",
+    "static/media/IRANSansWeb_Light.ttf": "/kalatic/static/media/IRANSansWeb_Light.2b64937900326fc69f94.ttf",
+    "static/media/IRANSansWeb.ttf": "/kalatic/static/media/IRANSansWeb.30ee3c0863897d81f92c.ttf",
+    "static/media/IRANSansWeb_Black.ttf": "/kalatic/static/media/IRANSansWeb_Black.57ad6d6688af34f8ae91.ttf",
+    "static/media/IRANSansWeb_Medium.ttf": "/kalatic/static/media/IRANSansWeb_Medium.e96320d7828b1c1aeb64.ttf",
+    "static/media/5.jpg": "/kalatic/static/media/5.c5cb22ffff1ff50115c8.jpg",
+    "static/media/2.jpg": "/kalatic/static/media/2.e49a66bb6fa100c03afd.jpg",
+    "static/media/adv3.jpg": "/kalatic/static/media/adv3.45dc688052d227c55f30.jpg",
+    "static/media/7.jpg": "/kalatic/static/media/7.91b9ae2061c958d6f533.jpg",
+    "static/media/3.jpg": "/kalatic/static/media/3.162cc96034c872884458.jpg",
+    "static/media/adv2.jpg": "/kalatic/static/media/adv2.849f7c79f508b21fa70a.jpg",
+    "static/media/6.jpg": "/kalatic/static/media/6.f2c8dee090a66779db74.jpg",
+    "static/media/4.jpg": "/kalatic/static/media/4.2e3aed06f5240879e454.jpg",
+    "static/media/4.webp": "/kalatic/static/media/4.e0b89bd148bdae961a75.webp",
+    "static/media/5.webp": "/kalatic/static/media/5.310f4739a4d15af99475.webp",
+    "static/media/3.webp": "/kalatic/static/media/3.c01dcaa1f28470d41e3b.webp",
+    "static/media/6.webp": "/kalatic/static/media/6.77bf27029c748fbfbf7e.webp",
+    "static/media/2.webp": "/kalatic/static/media/2.fc630cd61c072e1e56ee.webp",
+    "static/media/1.webp": "/kalatic/static/media/1.5e502a3ad301b753d989.webp",
+    "index.html": "/kalatic/index.html",
+    "main.c56f79a5.css.map": "/kalatic/static/css/main.c56f79a5.css.map",
+    "main.aacab595.js.map": "/kalatic/static/js/main.aacab595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c56f79a5.css",
+    "static/js/main.aacab595.js"
+  ]
+}
