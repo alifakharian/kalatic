@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kalatic/static/css/main.e9218e16.css",
-    "main.js": "/kalatic/static/js/main.ace60aaa.js",
+    "main.js": "/kalatic/static/js/main.51184514.js",
     "static/media/1.jpg": "/kalatic/static/media/1.92d0c900c387396a5a34.jpg",
     "static/media/8.jpg": "/kalatic/static/media/8.51536bd3f8b43fe1c743.jpg",
     "static/media/IRANSansXFaNum-Medium.ttf": "/kalatic/static/media/IRANSansXFaNum-Medium.1084402b5f9df646940c.ttf",
@@ -29,10 +29,10 @@
     "static/media/1.webp": "/kalatic/static/media/1.5e502a3ad301b753d989.webp",
     "index.html": "/kalatic/index.html",
     "main.e9218e16.css.map": "/kalatic/static/css/main.e9218e16.css.map",
-    "main.ace60aaa.js.map": "/kalatic/static/js/main.ace60aaa.js.map"
+    "main.51184514.js.map": "/kalatic/static/js/main.51184514.js.map"
   },
   "entrypoints": [
     "static/css/main.e9218e16.css",
-    "static/js/main.ace60aaa.js"
+    "static/js/main.51184514.js"
   ]
 }
