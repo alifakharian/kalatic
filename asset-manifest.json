@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kalatic/static/css/main.83423046.css",
-    "main.js": "/kalatic/static/js/main.3c4fe351.js",
+    "main.css": "/kalatic/static/css/main.6d57c99a.css",
+    "main.js": "/kalatic/static/js/main.8dc15539.js",
     "static/media/1.jpg": "/kalatic/static/media/1.92d0c900c387396a5a34.jpg",
     "static/media/8.jpg": "/kalatic/static/media/8.51536bd3f8b43fe1c743.jpg",
     "static/media/IRANSansXFaNum-Medium.ttf": "/kalatic/static/media/IRANSansXFaNum-Medium.1084402b5f9df646940c.ttf",
@@ -28,11 +28,11 @@
     "static/media/2.webp": "/kalatic/static/media/2.fc630cd61c072e1e56ee.webp",
     "static/media/1.webp": "/kalatic/static/media/1.5e502a3ad301b753d989.webp",
     "index.html": "/kalatic/index.html",
-    "main.83423046.css.map": "/kalatic/static/css/main.83423046.css.map",
-    "main.3c4fe351.js.map": "/kalatic/static/js/main.3c4fe351.js.map"
+    "main.6d57c99a.css.map": "/kalatic/static/css/main.6d57c99a.css.map",
+    "main.8dc15539.js.map": "/kalatic/static/js/main.8dc15539.js.map"
   },
   "entrypoints": [
-    "static/css/main.83423046.css",
-    "static/js/main.3c4fe351.js"
+    "static/css/main.6d57c99a.css",
+    "static/js/main.8dc15539.js"
   ]
 }
